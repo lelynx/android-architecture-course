@@ -20,6 +20,7 @@ import com.techyourchance.mvc.screens.questionslist.QuestionsListFragment;
 import java.util.HashSet;
 import java.util.Set;
 
+// Branch Transformation#1
 public class MainActivity extends BaseActivity implements
         BackPressDispatcher,
         FragmentFrameWrapper,
